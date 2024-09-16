@@ -20,4 +20,17 @@ public class SampleGIT {
 
 	}
 
+	private void ac() {
+		System.out.println("AC");
+
+	}
+	
+	private void fridge() {
+		System.out.println("Refrigerator");
+
+	}
+	private void sewingMachine() {
+		System.out.println("Sewing Machine");
+
+	}
 }
