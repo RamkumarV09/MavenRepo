@@ -1,6 +1,35 @@
 package org.sample;
 
 public class SampleGIT {
+	
+	private void tubeLight() {
+
+		System.out.println("Tube Light");
+	}
+
+	private void bulb() {
+		System.out.println("Bulb");
+
+	}
+
+	private void mixi() {
+		System.out.println("Mixi");
+	}
+	
+	private void ac() {
+		System.out.println("AC");
+
+	}
+	
+	private void fridge() {
+		System.out.println("Refrigerator");
+
+	}
+	private void sewingMachine() {
+		System.out.println("Sewing Machine");
+
+
+	}
 
 	private void meth1() {
 
@@ -20,18 +49,4 @@ public class SampleGIT {
 
 	}
 
-	private void tubeLight() {
-
-		System.out.println("Tube Light");
-	}
-
-	private void bulb() {
-		System.out.println("Bulb");
-
-	}
-
-	private void mixi() {
-		System.out.println("Mixi");
-
-	}
 }
