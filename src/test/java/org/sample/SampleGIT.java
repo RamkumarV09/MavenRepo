@@ -1,7 +1,7 @@
 package org.sample;
 
 public class SampleGIT {
-	
+
 	private void meth1() {
 
 		System.out.println("Method 1");
@@ -20,4 +20,18 @@ public class SampleGIT {
 
 	}
 
+	private void tubeLight() {
+
+		System.out.println("Tube Light");
+	}
+
+	private void bulb() {
+		System.out.println("Bulb");
+
+	}
+
+	private void mixi() {
+		System.out.println("Mixi");
+
+	}
 }
